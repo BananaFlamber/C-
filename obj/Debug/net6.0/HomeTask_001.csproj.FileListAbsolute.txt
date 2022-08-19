@@ -1,0 +1,15 @@
+C:\Users\Артём\Desktop\system_log\HomeTask_001\bin\Debug\net6.0\HomeTask_001.exe
+C:\Users\Артём\Desktop\system_log\HomeTask_001\bin\Debug\net6.0\HomeTask_001.deps.json
+C:\Users\Артём\Desktop\system_log\HomeTask_001\bin\Debug\net6.0\HomeTask_001.runtimeconfig.json
+C:\Users\Артём\Desktop\system_log\HomeTask_001\bin\Debug\net6.0\HomeTask_001.dll
+C:\Users\Артём\Desktop\system_log\HomeTask_001\bin\Debug\net6.0\HomeTask_001.pdb
+C:\Users\Артём\Desktop\system_log\HomeTask_001\obj\Debug\net6.0\HomeTask_001.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\system_log\HomeTask_001\obj\Debug\net6.0\HomeTask_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Desktop\system_log\HomeTask_001\obj\Debug\net6.0\HomeTask_001.AssemblyInfoInputs.cache
+C:\Users\Артём\Desktop\system_log\HomeTask_001\obj\Debug\net6.0\HomeTask_001.AssemblyInfo.cs
+C:\Users\Артём\Desktop\system_log\HomeTask_001\obj\Debug\net6.0\HomeTask_001.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\system_log\HomeTask_001\obj\Debug\net6.0\HomeTask_001.dll
+C:\Users\Артём\Desktop\system_log\HomeTask_001\obj\Debug\net6.0\refint\HomeTask_001.dll
+C:\Users\Артём\Desktop\system_log\HomeTask_001\obj\Debug\net6.0\HomeTask_001.pdb
+C:\Users\Артём\Desktop\system_log\HomeTask_001\obj\Debug\net6.0\HomeTask_001.genruntimeconfig.cache
+C:\Users\Артём\Desktop\system_log\HomeTask_001\obj\Debug\net6.0\ref\HomeTask_001.dll
